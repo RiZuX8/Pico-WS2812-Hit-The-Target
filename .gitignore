@@ -1,0 +1,14 @@
+# macOS
+.DS_Store
+
+# Doxygen generated docs
+html/
+latex/
+
+# Build outputs
+build/
+.pio/
+*.hex
+*.bin
+*.uf2
+*.elf
